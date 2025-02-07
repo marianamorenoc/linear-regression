@@ -35,3 +35,5 @@ plt.ylabel("$f_{\mathbf{w}}(x)$", fontsize=20)
 plt.title(rf"$f_{{\mathbf{{w}}}}(x) = {true_coeffs[1]} x + {true_coeffs[0]} + \epsilon$, where $\epsilon \sim \mathcal{{N}}(\mu=0, \sigma={noise_std})$", fontsize=20)
 plt.legend()
 plt.show()
+
+miau
